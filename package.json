@@ -2,7 +2,7 @@
   "name": "my-profile-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-github-username.github.io/my-simple-react-app",
+  "homepage": "https://ganesan-mayavan.github.io/my-profile-page",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
