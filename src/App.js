@@ -1,8 +1,8 @@
 import React from 'react';
-import PortfolioPage from './PortfolioPage';
+import MyProfile from './components/MyProfile';
 
 function App() {
-  return <PortfolioPage />;
+  return <MyProfile />;
 }
 
 export default App;

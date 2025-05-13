@@ -1,0 +1,42 @@
+.hello {
+    z-index: 1;
+}
+
+.hello-text {
+    font-size: 75px;
+    font-family: "Cormorant Garamond", serif;
+}
+
+.name-text {
+    font-size: 100px;
+    font-family: "Cormorant Garamond", serif;
+}
+
+.role-text {
+    font-size: 25px;
+    color: rgb(125, 125, 125);
+}
+
+.split-container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    padding: 150px;
+   
+}
+
+.left-pane, .right-pane {
+    flex: 1;
+    color: white;
+    z-index: 1;
+}
+
+.profile-image {
+    width: 75%;
+    height: 75%;
+    object-fit: cover;
+}
+
+/* .profile-image-container {
+    padding: 100px;
+} */
